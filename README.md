@@ -1,1 +1,1 @@
-#Blog web application made using flask, python and sqlacademy
+#Blog web application made using flask, python and HTML
